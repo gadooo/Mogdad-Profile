@@ -62,14 +62,14 @@ export const Projects = () => {
                 ))}
               </div>
 
-              <div className="flex justify-between items-center">
+              {/* <div className="flex justify-between items-center">
                 <a
                   href="#"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
                 </a>
-              </div>
+              </div> */}
             </div>
             <div
               className="
@@ -103,14 +103,14 @@ export const Projects = () => {
                   </span>
                 ))}
               </div>
-              <div className="flex justify-between items-center">
+              {/* <div className="flex justify-between items-center">
                 <a
                   href="#"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
                 </a>
-              </div>
+              </div> */}
             </div>
 
             <div
@@ -143,14 +143,14 @@ export const Projects = () => {
                   </span>
                 ))}
               </div>
-              <div className="flex justify-between items-center">
+              {/* <div className="flex justify-between items-center">
                 <a
                   href="#"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
                 </a>
-              </div>
+              </div> */}
             </div>
 
             <div
@@ -183,14 +183,14 @@ export const Projects = () => {
                   </span>
                 ))}
               </div>
-              <div className="flex justify-between items-center ">
+              {/* <div className="flex justify-between items-center ">
                 <a
                   href="#"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
                 </a>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
